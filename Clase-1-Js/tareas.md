@@ -51,7 +51,7 @@ false + 10 = 10 "false=0 --> 0+10=10"
 
 5 || 0 = 5 que seria igual a true, osea true||false=true
 
-0 || 5 = 5 "idem anteriores"
+0 || 5 = 5 "idem anteriore"
 
 true && false = false "porque ambos deben ser true para que de como resultado true"
 
