@@ -61,5 +61,5 @@ false || !false = true "por el signo de negacion que invierte el resultado !fals
 
 "texto" || 0 = true o texto, porque texto=true y ""=false
 
-2 || "prueba“ =
+2 || "prueba“ = vamos a probar que pasa
 ```
