@@ -49,7 +49,7 @@ false + 10 = 10 "false=0 --> 0+10=10"
 
 2 && 5 = idem anterior
 
-5 || 0 = 5 que seria igual a true, osea true||false=true
+5 || 0 = 5 que seria igual a true, osea true||false=trues
 
 0 || 5 = 5 "igual al anterior"
 
