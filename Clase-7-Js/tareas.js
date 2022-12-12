@@ -14,6 +14,6 @@ imprimir();
 
 /*se imprime en este orden
 primero imprime el 1 porque es una ejecucion directa
-segundo imprime el 4 porque es una ejecucion directa
-tercero imprime el 3 porque al tener setTimeout va a la cola en la pila
-cuarto imprime el 2 porque al tener setTimeout con 1 segundo de demora, va a la pila en ultimo lugar */
+segundo imprime el 4 porque es una ejecucion directa y aparece despues del console.log(1)
+tercero imprime el 3 porque al tener setTimeout con valor cero va a la cola en la pila de ejecucion
+cuarto imprime el 2 porque al tener setTimeout con 1 segundo de demora, entra en la pila de ejecucion en ultimo lugar */
